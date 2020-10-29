@@ -1,0 +1,27 @@
+{
+  "name": "web-calculator",
+  "version": "1.0.0",
+  "description": "Web calculator made with JS.",
+  "main": "\u001b[C\u001bassetassets/javascript/main.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/berkysr/web-calculator.git"
+  },
+  "keywords": [
+    "javascript",
+    "practice",
+    "calculator"
+  ],
+  "author": "Berk YASAR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/berkysr/web-calculator.git/issues"
+  },
+  "homepage": "https://github.com/berkysr/web-calculator.git#readme",
+  "dependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
